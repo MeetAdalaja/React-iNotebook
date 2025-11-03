@@ -25,9 +25,7 @@ Create, edit, search, and delete notes with **JWT‑based authentication** and a
 
 ## 🖥️ Live Demo
 
-> Add your deployment URLs here when live:
-- Frontend (Vercel/Netlify): `https://<your-frontend-domain>`
-- Backend (Render/Railway/Fly): `https://<your-backend-domain>`
+**▶️ https://react-i-notebook.vercel.app/**
 
 ---
 
